@@ -1,0 +1,49 @@
+** TODO LIST **
+
+- Pumpkin pete = 12377; snowman = 13637;
+  Easter bunny = 9687;
+  			^ for pkp store.
+
+~ General
+
+	- Fix id for second click game object:
+		Definitely is readLEShortA, not sure why it won't work for objects like edge banks, which are about 40k~, shorts should be fine...
+		
+	- RangedMaxHit and MagicMaxHit
+	
+	- Make the weapons and load their specials: 
+	
+		  DragonHalberdWeapon
+		  DragonMaceWeapon
+		  DragonBattleAxeWeapon
+		  VestaLongswordWeapon
+		  StatiusWarhammerWeapon
+		  VestaSpearWeapon
+		  BarrelchestAnchorWeapon
+	  
+	- Get special attack animation/graphic for:
+		{@link org.niobe.world.content.combat.special.impl.DragonPickaxeSpecialAttack}
+	
+	- {@link org.niobe.world.region.clip.RegionClipping} - will try and load like client
+	
+	- Special attacks :
+		
+		* Dragon hatchet - 100% drain, lowers victim's defence and magic by 10% of damage
+		
+		* Dragon 2h - 60% drain, character's within 1 square would be hit -> no more than 14 can be hit
+		
+		* Abyssal vine whip - 60% drain, summons vine that hits opponent 10 times for 125% of your accuracy
+										and 33% of your strength, would hit as long as victim is in range
+		
+		* Granite mace - 50% drain, no delay (can do 1 more hit than g maul, the end hit)
+		
+		* Excalibur - 100% drain, +8 defence, shouts "For Camelot!"							
+		
+		* Enhanced excalibut - 100% drain, defence + 15%, hp + 40/2 secs for 10 secs.
+		
+		* Darklight - 50% drain, reduces victim's attack,strength,def by 5% (by 10% on demons)
+		
+		* Rune claws - 25% drain, 10% more attack and strnegth, but slower
+		
+		* Brine sabre - 75% drain, doubled change of hitting, 2.5% damage dealt went to +str,att, def
+			

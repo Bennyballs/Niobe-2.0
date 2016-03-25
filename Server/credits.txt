@@ -1,0 +1,11 @@
+Huge credits to 
+
+http://www.rune-server.org/members/graham/ 
+
+ - Used apollo's netty as a big reference.
+ - {@link org.niobe.net.StatefulFrameDecoder}, {@link org.niobe.net.login.LoginDecoderState},
+   {@link org.niobe.util.DirectionUtil}
+ 
+http://www.rune-server.org/members/Scu11/
+
+ - Used ranged configs (the ArrowType, BowType and RangedWeaponType enums) from rs2-474. 

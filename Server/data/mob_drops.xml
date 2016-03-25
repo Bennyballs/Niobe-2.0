@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mob_drops>
+    <mob mobId="1">
+        <drop itemId="526" itemAmount="1" factor="ALWAYS"/>
+        <drop itemId ="995" itemAmount="3" itemAmountAddition="10" factor="COMMON" rolls="2"/>
+    </mob>
+    
+    <mob mobId="2">
+        <drop itemId="526" itemAmount="1" factor="ALWAYS"/>
+        <drop itemId ="995" itemAmount="3" itemAmountAddition="10" factor="COMMON" rolls="2"/>
+    </mob>
+    
+    <mob mobId="3">
+        <drop itemId="526" itemAmount="1" factor="ALWAYS"/>
+        <drop itemId ="995" itemAmount="3" itemAmountAddition="10" factor="COMMON" rolls="2"/>
+    </mob>
+    
+    <mob mobId="5">
+         <drop itemId="526" itemAmount="1" factor="ALWAYS"/>
+        <drop itemId="14484" itemAmount="1" factor="ALWAYS"/>
+    </mob>
+</mob_drops>

@@ -1,0 +1,101 @@
+<list>
+    <spawn>
+        <id>12377</id>
+        <x>3086</x>
+		<y>3503</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>5</walkDistance>
+		<respawnTimer>15</respawnTimer>
+    </spawn>
+    
+	<spawn>
+		<id>1</id>
+		<x>3087</x>
+		<y>3494</y>
+		<z>0</z>
+		<face>NORTH</face>
+		<walkDistance>10</walkDistance>
+		<respawnTimer>15</respawnTimer>
+	</spawn>
+	
+	<spawn>
+	    <id>650</id>
+	    <x>3090</x>
+	    <y>3499</y>
+	    <z>0</z>
+	    <face>WEST</face>
+	    <walkDistance>0</walkDistance>
+	    <respawnTimer>15</respawnTimer>
+	</spawn>
+	
+	<spawn>
+	    <id>649</id>
+	    <x>3090</x>
+	    <y>3498</y>
+	    <z>0</z>
+	    <face>WEST</face>
+	    <walkDistance>0</walkDistance>
+	    <respawnTimer>15</respawnTimer>
+	</spawn>
+	
+	<spawn>
+	    <id>461</id>
+	    <x>3090</x>
+	    <y>3497</y>
+	    <z>0</z>
+	    <face>WEST</face>
+	    <walkDistance>0</walkDistance>
+	    <respawnTimer>15</respawnTimer>
+	</spawn>
+	
+	<spawn>
+	    <id>559</id>
+	    <x>3090</x>
+	    <y>3494</y>
+	    <z>0</z>
+	    <face>WEST</face>
+	    <walkDistance>0</walkDistance>
+	    <respawnTimer>15</respawnTimer>
+	</spawn>
+	
+	<spawn>
+	    <id>2759</id>
+	    <x>3097</x>
+	    <y>3494</y>
+	    <z>0</z>
+	    <face>NORTH</face>
+	    <walkDistance>0</walkDistance>
+	    <respawnTimer>15</respawnTimer>
+	</spawn>
+	
+	<spawn>
+	    <id>2759</id>
+	    <x>3096</x>
+	    <y>3493</y>
+	    <z>0</z>
+	    <face>WEST</face>
+	    <walkDistance>0</walkDistance>
+	    <respawnTimer>15</respawnTimer>
+	</spawn>
+	
+	<spawn>
+	    <id>2759</id>
+	    <x>3096</x>
+	    <y>3491</y>
+	    <z>0</z>
+	    <face>WEST</face>
+	    <walkDistance>0</walkDistance>
+	    <respawnTimer>15</respawnTimer>
+	</spawn>
+	
+	<spawn>
+	    <id>2759</id>
+	    <x>3096</x>
+	    <y>3489</y>
+	    <z>0</z>
+	    <face>WEST</face>
+	    <walkDistance>0</walkDistance>
+	    <respawnTimer>15</respawnTimer>
+	</spawn>
+</list>

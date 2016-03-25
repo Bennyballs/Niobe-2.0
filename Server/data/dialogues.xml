@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    
+	<dialogue>
+	    <id>0</id>
+	    <type>MOB_STATEMENT</type>
+	    <animation>GOOFY_LAUGH</animation>
+	    <lines>2</lines>
+	    <line1>Hello, lovely day isn't it?</line1>
+	    <line2>Even though there isn't a weather system...</line2>
+	    <next>1</next>
+	    <mobId>1</mobId>
+	</dialogue>
+	
+	<dialogue>
+		<id>1</id>
+		<type>PLAYER_STATEMENT</type>
+		<animation>ANGRY</animation>
+		<lines>1</lines>
+		<line1>Easy for you to say moron! Grrr...</line1>
+		<next>-1</next>
+	</dialogue>
+	
+	<dialogue>
+	    <id>2</id>
+	    <type>OPTIONS</type>
+	    <lines>1</lines>
+	    <line1>Choose this option yo!</line1>
+	    <next>-1</next>
+	</dialogue>
+	
+	<dialogue>
+	    <id>3</id>
+	    <type>OPTIONS</type>
+	    <lines>2</lines>
+	    <line1>Choose this option yo!</line1>
+	    <line2>No! Choose me!</line2>
+	    <next>-1</next>
+	</dialogue>
+	
+	<dialogue>
+	    <id>4</id>
+	    <type>OPTIONS</type>
+	    <lines>3</lines>
+	    <line1>Choose this option yo!</line1>
+	    <line2>No! Choose me!</line2>
+	    <line3>Don't listen to them! Choose me!</line3>
+	    <next>-1</next>
+	</dialogue>
+	
+	<dialogue>
+	    <id>5</id>
+	    <type>ITEM_STATEMENT</type>
+	   	<lines>3</lines>
+	   	<line1>Hello line1 test!</line1>
+	   	<line2>Hello line2 test!</line2>
+	   	<line3>Hello line3 test!</line3>
+	   	<itemId>4151</itemId>
+	   	<itemZoom>200</itemZoom>
+	   	<header>Header test</header>
+	   	<next>-1</next>
+	</dialogue>
+
+</list>

@@ -1,0 +1,6 @@
+
+- Fix child 7549, 7474 which is supposed to be magic bows' special attack bar (the green part)
+
+- Chat text will go to next line once it reaches the chatbox limit
+
+- Poison orb (need to make it be index 17 in the cache), pretty sure i already added it, unsure as to why it wont show up.
